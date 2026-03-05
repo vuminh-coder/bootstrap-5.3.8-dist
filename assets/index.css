@@ -1,0 +1,74 @@
+.container-fluid {
+  width: 100%;
+}
+.w-1440px {
+  width: 1440px;
+}
+* {
+  font-family: "Be Vietnam Pro", sans-serif;
+}
+.bg-white {
+  background-color: white;
+}
+.color-black {
+  color: black;
+}
+
+.h-316px {
+  height: 316px;
+}
+.h-300px {
+  height: 300px;
+}
+
+#section1 .container {
+  background-image: url(./img/Rectangle\ 1.svg);
+  border-radius: 5px;
+}
+.color-darkgray {
+  color: darkgray;
+}
+.p-5 {
+  padding: 5px;
+}
+body {
+  scroll-behavior: smooth;
+}
+#section3 .col-3 img {
+  transition: all 0.5s ease-in-out;
+}
+#section3 .col-3 img:hover {
+  transform: scale(0.97);
+}
+.bg-B88E2F {
+  background-color: #b88e2f;
+}
+.step {
+  border-radius: 5px;
+  width: 40px;
+  height: 40px;
+  border: 1px solid rgba(0, 0, 0, 0.404);
+}
+.circle {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  z-index: 9999;
+  background-color: #b88e2f;
+}
+.circle-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.position-relative {
+  position: relative;
+}
+.circle {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+article .container-lg {
+  background-image: url(./img/Rectangle\ 1.svg);
+}
