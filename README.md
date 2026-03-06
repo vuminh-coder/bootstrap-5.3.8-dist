@@ -2,3 +2,4 @@
 code --list-extensions > extensions.txt
 Get-Content extensions.txt | ForEach-Object { code --install-extension $_ }
 " 
+"# Comic-World" 
